@@ -1,0 +1,10 @@
+INSERT INTO Set_Menu VALUES ('KS3', 'Big Set Kolo with Pork Katsu', 28.90, 'CS001', '-');
+INSERT INTO Set_Menu VALUES ('KS4', 'Big Set Chilli Kolo with Pork Katsu', 29.90,'CS001', '-');
+INSERT INTO Set_Menu VALUES ('KP3', 'Big Set White Kampua with Pork Katsu', 28.90,'CS002', '-');
+INSERT INTO Set_Menu VALUES ('KP4', 'Big Set Black Kampua with Pork Katsu', 28.90,'CS002', '-');
+INSERT INTO Set_Menu VALUES ('KL3', 'Sarawak Laksa with Teh-O', 18.90,'CA001', '-');
+INSERT INTO Set_Menu VALUES ('KL4', 'Special Sarawak Laksa with Kopi-O', 35.50, 'CA001', '-');
+INSERT INTO Set_Menu VALUES ('KR3', 'Hainanese Chicken Rice with Pork Gyoza', 29.90,'CA005', '-');
+INSERT INTO Set_Menu VALUES ('KK2', 'Chicken Horfun with Kopi-C',18.90,'CA002', '-');
+INSERT INTO Set_Menu VALUES ('KO3', 'Kolo Mee with Cham', 19.90,'CA003', '-');
+INSERT INTO Set_Menu VALUES ('KW1', 'White Kampua Noodle with Pork Katsu',32.00, 'CA003', '-');

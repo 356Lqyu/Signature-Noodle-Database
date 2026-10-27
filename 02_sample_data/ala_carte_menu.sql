@@ -1,0 +1,13 @@
+INSERT INTO Ala_Carte_Menu VALUES ('L01', 'Sarawak Laksa(No Prawn)', 12.50,'CA001', 'Omelette, pork/fish balls');
+INSERT INTO Ala_Carte_Menu VALUES ('L02', 'Sarawak Laksa(With Prawns)', 17.50,'CA001', 'Omelette, pork/fish balls, prawns');
+INSERT INTO Ala_Carte_Menu VALUES ('G01', 'Chicken/Pork Horfun', 11.90, 'CA002', 'Pork slices, pork balls, kuchai');
+INSERT INTO Ala_Carte_Menu VALUES ('GP1', 'Special Horfun', 23.90, 'CA002', 'Hainan Chicken, Gyoza, Pork slices');
+INSERT INTO Ala_Carte_Menu VALUES ('KM1', 'Kolo Mee(No chilli)', 12.50, 'CA003', '-');
+INSERT INTO Ala_Carte_Menu VALUES ('KC1', 'Kolo Mee(Dry shrimp chilli)', 13.50, 'CA003', '-');
+INSERT INTO Ala_Carte_Menu VALUES ('KM3', 'Kolo with Hainan Chicken', 17.50, 'CA004', '-');
+INSERT INTO Ala_Carte_Menu VALUES ('KC3', 'Kolo Chilli with Hainan Chicken', 18.50, 'CA004', '-');
+INSERT INTO Ala_Carte_Menu VALUES ('HCO', 'Hainan Chicken Rice', 12.50, 'CA005', '-');
+INSERT INTO Ala_Carte_Menu VALUES ('DHC', 'Drumstick Hainan Chicken Rice', 16.50, 'CA005', '-');
+INSERT INTO Ala_Carte_Menu VALUES ('PG3', 'Steamed Gyoza/Vegetable in Soup', 15.00, 'CA006', '-');
+INSERT INTO Ala_Carte_Menu VALUES ('BB1', 'Classic Sourdough Bread', 8.00, 'CA007', '-');
+INSERT INTO Ala_Carte_Menu VALUES ('BB2', 'Sourdough Bread with Goji Berry', 6.00, 'CA007', '-');

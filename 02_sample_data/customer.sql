@@ -1,0 +1,10 @@
+INSERT INTO Customer VALUES('C1001','Hannah','011-220-9989', 'hanh@gmail.com' ,'09-Sep-2003','F');
+INSERT INTO Customer VALUES ('C1002','Wanee','012-700-0123','wne@gmail.com', '10-Feb-2002','F');
+INSERT INTO Customer VALUES('C1003','Ivan','019-667-0977','ivan@gmail.com', '19-Dec-2001','M');
+INSERT INTO Customer VALUES('C1004','Kevin','018-077-6601','kevn@gmail.com', '02-Feb-2002','M');
+INSERT INTO Customer VALUES('C1005','Hailey','016-718-9362','haly@gmail.com', '26-Mar-1999','F');
+INSERT INTO Customer VALUES('C1006','Siti','012-862-8850','siti@gmail.com', '07-Nov-2003','F');
+INSERT INTO Customer VALUES('C1007','Jestina','011-704-6831','jetn@gmail.com', '09-May-2000','F');
+INSERT INTO Customer VALUES('C1008','Sean','010-934-0711','sean@gmail.com', '26-Jul-1997','M');
+INSERT INTO Customer VALUES('C1009','Nicole','018-366-0024','nico@gmail.com', '29-Oct-2004','F');
+INSERT INTO Customer VALUES('C1010','Kenneth','016-850-4432','keth@gmail.com', '03-Jun-2005','M');

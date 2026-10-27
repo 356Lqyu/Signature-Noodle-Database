@@ -1,0 +1,12 @@
+INSERT INTO Category VALUES ('CA001', 'Sarawak Laksa', 1.00);
+INSERT INTO Category VALUES ('CA002', 'OLD STYLE IPOH GAI SI HORFUN', 1.00);
+INSERT INTO Category VALUES ('CA003', 'KOLO/KAMPUA NOODLE', 1.00);
+INSERT INTO Category VALUES ('CA004', 'Kolo/Kampua topped with Hainan Chicken', 1.00);
+INSERT INTO Category VALUES ('CA005', 'Hainanese Chicken Rice', 1.00);
+INSERT INTO Category VALUES ('CA006', 'Light Bites / Snacks', 1.00);
+INSERT INTO Category VALUES ('CA007', 'Bread', 0.50);
+INSERT INTO Category VALUES ('CS001', 'Big Set Kolo', 1.00);
+INSERT INTO Category VALUES ('CS002', 'Big Set Kampua', 1.00);
+INSERT INTO Category VALUES ('CD001', 'Signature IPOH WHITE COFFEE', 0.80);
+INSERT INTO Category VALUES ('CD002', 'Tea', 0.80);
+INSERT INTO Category VALUES ('CD003', 'Cham', 0.80);
